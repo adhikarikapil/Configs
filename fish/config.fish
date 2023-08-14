@@ -6,3 +6,6 @@ end
 
 #This is the only problem I had for now so I supressed it.
 #I will slowly change and update the configs after getting a hang of it.
+
+
+#set -U fish_prompt_pwd_dir_length 0
